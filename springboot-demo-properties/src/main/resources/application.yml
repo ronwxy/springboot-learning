@@ -1,0 +1,6 @@
+my:
+  name: devlink_yml
+
+spring:
+  profiles:
+    active: dev
